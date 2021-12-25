@@ -8,7 +8,7 @@
     <a href="https://dev.to/@meghnadsaha422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@meghnadsaha422" height="30" width="40" /></a>
     <a href="https://twitter.com/megn_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="megn_saha" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/meghnadsaha422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meghnadsaha422" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/meghnad-saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="meghnad-saha" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/7474546/meghnad-saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="meghnad-saha" height="30" width="40" /></a>
     <a href="https://medium.com/@meghnadsaha422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@meghnadsaha422" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/meghnad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="meghnad" height="30" width="40" /></a>
     <a href="https://codeforces.com/profile/megh422" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/768px-Codeforces_logo.svg.png" alt="meghnadsaha422" height="30" width="140" /></a>
@@ -44,7 +44,7 @@
 <a href="https://junit.org/junit5/" target="_blank"> <img src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67" alt="JUnit 5" width="40" height="40"/> </a>
 <a href="https://prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" width="100" height="40"/> </a>
 <a href="https://grafana.com/" target="_blank"> <img src="https://grafana.com/static/assets/internal/grafana_logo-web-dark.svg" alt="Grafana" width="100" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/02/hashicorp-logo-freelogovectors.net_.png" alt="" width="40" height="40"/> </a>
+<a href="https://www.vaultproject.io/" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/02/hashicorp-logo-freelogovectors.net_.png" alt="" width="40" height="40"/> </a>
 
 [comment]: <> (<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>)
 
